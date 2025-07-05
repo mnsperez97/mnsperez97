@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://twitter.com/mnsperez97" target="blank"><img src="https://img.shields.io/twitter/follow/mnsperez97?logo=twitter&style=for-the-badge" alt="mnsperez97" /></a> </p>
 
-- 🌱 Actualmente estoy aprendiendo **Backend con python y FASTAPI**
+- 🌱 Actualmente estoy aprendiendo **Desarrollo mobile con Flutter**
 
 - 💬 Puedes preguntarme sobre **PHP,Python, HTML, Laravel, Boostrap, SQLServer, DBISAM**
 
